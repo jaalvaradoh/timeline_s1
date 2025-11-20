@@ -1,10 +1,10 @@
 import streamlit as st
 
-st.set_page_config(page_title="Timeline con Imágenes", layout="centered")
+st.set_page_config(page_title="Sesion 2 | ISIL", layout="centered")
 
-st.title("📌 Timeline con Slider e Imágenes desde GitHub")
+st.title("Desarrollo de la Inteligencia artificial")
 
-st.write("Usa el slider para navegar entre las imágenes del timeline.")
+st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 
 # -------------------------
 # URLs de imágenes en GitHub
@@ -35,3 +35,9 @@ opcion = st.slider(
 st.image(imagenes[opcion], use_container_width=True) # width=600)
 
 st.write(f"Imagen mostrada: timeline{opcion}.png")
+
+if opcion = 1:
+  st.info("📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.")
+if opcion = 2:
+  st.info("🏛️**1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.")
+
