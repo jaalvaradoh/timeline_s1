@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Sesion 2 | ISIL", layout="centered")
 
-st.title("Desarrollo de la Inteligencia artificial")
+st.title("Desarrollo de la IA | Timeline")
 
 st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 
