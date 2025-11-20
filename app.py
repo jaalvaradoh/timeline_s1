@@ -7,19 +7,15 @@ st.write("Interactúa con la barra deslizante para explorar los hitos más impor
 
 # Datos del timeline
 eventos = {
-    1950: "📘 **1950 – Test de Turing** Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
+    1950: "📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
     
-    1956: "🏛️ **1956 – Nace el campo de la IA en Dartmouth**  
-    John McCarthy acuña el término *Inteligencia Artificial*.",
+    1956: "🏛️ **1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.",
     
-    1997: "♟️ **1997 – Deep Blue vence a Garry Kasparov**  
-    Primer triunfo de una máquina sobre un campeón mundial de ajedrez.",
+    1997: "♟️ **1997 – Deep Blue vence a Garry Kasparov**| Primer triunfo de una máquina sobre un campeón mundial de ajedrez.",
     
-    2012: "📈 **2012 – Revolución del Deep Learning (AlexNet)**  
-    Una red neuronal profunda supera ampliamente otros métodos en reconocimiento de imágenes.",
+    2012: "📈 **2012 – Revolución del Deep Learning (AlexNet)** | Una red neuronal profunda supera ampliamente otros métodos en reconocimiento de imágenes.",
     
-    2022: "🤖 **2022 – Avances en modelos generativos**  
-    El mundo presencia la llegada masiva de modelos como GPT, DALL·E y sistemas multimodales."
+    2022: "🤖 **2022 – Avances en modelos generativos** | El mundo presencia la llegada masiva de modelos como GPT, DALL·E y sistemas multimodales."
 }
 
 # Barra deslizante
