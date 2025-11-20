@@ -34,10 +34,16 @@ opcion = st.slider(
 # Mostrar imagen según slider
 st.image(imagenes[opcion], use_container_width=True) # width=600)
 
-st.write(f"Imagen mostrada: timeline{opcion}.png")
+#st.write(f"Imagen mostrada: timeline{opcion}.png")
 
 if opcion == 1:
   st.info("📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.")
 if opcion == 2:
   st.info("🏛️**1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.")
+if opcion == 3:
+  st.info("♟️ **1997 – Deep Blue vence a Garry Kasparov** | Primer triunfo de una máquina sobre un campeón mundial de ajedrez.")
+if opcion == 4:
+  st.info("📈 **2012 – Revolución del Deep Learning (AlexNet)** | Una red neuronal profunda supera ampliamente otros métodos en reconocimiento de imágenes.")
+if opcion == 5:
+  st.info("🤖 **2022 – Avances en modelos generativos** | Llegan modelos como GPT, DALL·E y sistemas multimodales.")
 
