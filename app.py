@@ -9,23 +9,23 @@ st.write("Interactúa con la barra deslizante para explorar los hitos más impor
 eventos = {
     1950: {
         "texto": "📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
-        "imagen": "timeline_s1/timeline1.png"
+        "imagen": "timeline_images/timeline1.png"
     },
     1956: {
         "texto": "🏛️ **1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.",
-        "imagen": "timeline_s1/timeline2.png"
+        "imagen": "timeline_images/timeline2.png"
     },
     1997: {
         "texto": "♟️ **1997 – Deep Blue vence a Garry Kasparov** | Primer triunfo de una máquina sobre un campeón mundial de ajedrez.",
-        "imagen": "timeline_s1/timeline3.png"
+        "imagen": "timeline_images/timeline3.png"
     },
     2012: {
         "texto": "📈 **2012 – Revolución del Deep Learning (AlexNet)** | Una red neuronal profunda supera ampliamente otros métodos en reconocimiento de imágenes.",
-        "imagen": "timeline_s1/timeline4.png"
+        "imagen": "timeline_images/timeline4.png"
     },
     2022: {
         "texto": "🤖 **2022 – Avances en modelos generativos** | Llegan modelos como GPT, DALL·E y sistemas multimodales.",
-        "imagen": "timeline_s1/timeline5.png"  # si solo tienes 4 imágenes, usa timeline4.png nuevamente
+        "imagen": "timeline_images/timeline5.png"  # si solo tienes 4 imágenes, usa timeline4.png nuevamente
     }
 }
 
