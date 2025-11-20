@@ -32,6 +32,6 @@ opcion = st.slider(
 )
 
 # Mostrar imagen según slider
-st.image(imagenes[opcion], use_container_width=True)
+st.image(imagenes[opcion], width=200, height=200) #use_container_width=True)
 
 st.write(f"Imagen mostrada: timeline{opcion}.png")
