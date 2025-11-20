@@ -48,5 +48,5 @@ if opcion == 3:
 if opcion == 4:
   st.info("📈 **2012 – Revolución del Deep Learning (AlexNet)** | Una red neuronal profunda supera ampliamente otros métodos en reconocimiento de imágenes.")
 if opcion == 5:
-  st.info("🤖 **2022 – Avances en modelos generativos** | Llegan modelos como GPT, DALL·E y sistemas multimodales.")
+  st.info("🤖 **2022 – Avances en modelos generativos** | Llegan tecnologías como ChatGPT, Gemini, Agentes y más.")
 
