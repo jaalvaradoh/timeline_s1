@@ -7,8 +7,7 @@ st.write("Interactúa con la barra deslizante para explorar los hitos más impor
 
 # Datos del timeline
 eventos = {
-    1950: "📘 **1950 – Test de Turing**  
-    Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
+    1950: "📘 **1950 – Test de Turing** Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
     
     1956: "🏛️ **1956 – Nace el campo de la IA en Dartmouth**  
     John McCarthy acuña el término *Inteligencia Artificial*.",
