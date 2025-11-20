@@ -36,8 +36,8 @@ st.image(imagenes[opcion], use_container_width=True) # width=600)
 
 st.write(f"Imagen mostrada: timeline{opcion}.png")
 
-if value = 1:
+if opcion == 1:
   st.info("📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.")
-if value = 2:
+if opcion == 2:
   st.info("🏛️**1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.")
 
