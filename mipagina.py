@@ -4,7 +4,8 @@ st.set_page_config(page_title="Sesion 2 | ISIL", layout="centered")
 
 st.title("Desarrollo de la IA | Timeline")
 
-Autor: Jesus Alvarado Huayhuaz
+st.write("")
+st.write("Autor: Jesus Alvarado Huayhuaz | ISIL")
 
 st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de la IA.")
 
