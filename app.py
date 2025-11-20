@@ -9,11 +9,11 @@ st.write("Interactúa con la barra deslizante para explorar los hitos más impor
 eventos = {
     1950: {
         "texto": "📘 **1950 – Test de Turing** | Alan Turing propone un criterio para evaluar la inteligencia de una máquina.",
-        "imagen": "print(f"{timeline_images/timeline1}.png)"
+        "imagen": print(f"{timeline_images/timeline1}.png)
     },
     1956: {
         "texto": "🏛️ **1956 – Nace el campo de la IA en Dartmouth** | John McCarthy acuña el término *Inteligencia Artificial*.",
-        "imagen": print(f"{timeline_images/timeline2}.png)"
+        "imagen": print(f"{timeline_images/timeline2}.png)
     },
     1997: {
         "texto": "♟️ **1997 – Deep Blue vence a Garry Kasparov** | Primer triunfo de una máquina sobre un campeón mundial de ajedrez.",
